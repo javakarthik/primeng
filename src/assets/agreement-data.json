@@ -1,0 +1,34 @@
+[[{
+	"columns": {
+		"AGREEMENT_ID": "54834",
+		"AGREEMENT_NUMBER": null,
+		"NAME": "PSNR=54834",
+		"STATUS_ID": "1",
+		"STATUS_NAME": "Nuevo",
+		"TYPE_ID": "1",
+		"TYPE_NAME": "Normal",
+		"SIGNED_DATE": null,
+		"MARKET_SEGMENT_ID": "21829",
+		"MARKET_SEGMENT_NAME": "Cordoba",
+		"FROM_DATE": "1998-08-18 00:00:00",
+		"TO_DATE": "2000-08-18 00:00:00",
+		"CUSTOMER_ID": "104188"
+	}
+},
+{
+	"columns": {
+		"AGREEMENT_ID": "12345",
+		"AGREEMENT_NUMBER": null,
+		"NAME": "PSNR=12345",
+		"STATUS_ID": "1",
+		"STATUS_NAME": "Nuevo",
+		"TYPE_ID": "1",
+		"TYPE_NAME": "Normal",
+		"SIGNED_DATE": null,
+		"MARKET_SEGMENT_ID": "21829",
+		"MARKET_SEGMENT_NAME": "Cordoba",
+		"FROM_DATE": "1998-08-18 00:00:00",
+		"TO_DATE": "2000-08-18 00:00:00",
+		"CUSTOMER_ID": "104188"
+	}
+}]]

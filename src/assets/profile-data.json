@@ -1,0 +1,25 @@
+[{
+	"customerId": "200",
+	"city": "Santa Marta",
+	"email": "anil.paingankar@wipro.com",
+	"firstName": "Anil",
+	"lastName": "Paingankar",
+	"phone": "7022976437",
+	"phoneType": "mobile",
+	"postalCode": "600012",
+	"birthDate": "2000-11-23",
+	"partyID": "2",
+	"externalReference": "none",
+	"serialNumber": [{
+		"number": "2",
+		"type": "none"
+	}],
+	"smartCard": "smartcard",
+	"countryCode": "CO",
+	"notes": "note",
+	"customerType": "type",
+	"characteristic": [{
+		"name": "none",
+		"value": "none"
+	}]
+}]
